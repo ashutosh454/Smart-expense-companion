@@ -10,6 +10,15 @@ Smart Expense Companion is an intelligent personal finance tracking web applicat
 - **Smart Predictions**: Forecast future expenses and income based on your transaction history.
 - **AI Assistant**: A built-in assistant to help you understand your spending habits and provide financial advice.
 
+## Screenshots
+
+*(Add your screenshots to the `public/screenshots` folder and update the filenames below)*
+
+<div align="center">
+  <img src="public/screenshots/dashboard.png" alt="Dashboard View" width="800" />
+  <p><i>Smart Expense Companion Dashboard</i></p>
+</div>
+
 ## Tech Stack
 
 - **Frontend Framework**: React 18 with TypeScript
